@@ -1,0 +1,1 @@
+{"criteria":{"completed":{"trigger":"randomachievements:complete","conditions":{"achievement_id":"go_to_sleep"}}},"display":{"icon":{"id":"minecraft:white_wool","count":1},"title":"Go to Sleep Man","description":"Stay awake for 2 full nights in a row","frame":"task","show_toast":true,"announce_to_chat":false,"hidden":false},"requirements":[["completed"]]}

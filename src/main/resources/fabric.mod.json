@@ -1,0 +1,23 @@
+{
+  "schemaVersion": 1,
+  "id": "randomachievements",
+  "version": "${version}",
+  "name": "Random Achievements",
+  "description": "Hilarious, unpredictable achievements and rewards. Touch grass, punch cows, bother villagers—get loot. Makes survival less repetitive and SMP more chaotic.",
+  "authors": ["You"],
+  "contact": {},
+  "license": "CC0-1.0",
+  "icon": "assets/randomachievements/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["com.randomachievements.RandomAchievementsMod"],
+    "client": ["com.randomachievements.RandomAchievementsClient"]
+  },
+  "mixins": ["randomachievements.mixins.json"],
+  "depends": {
+    "fabricloader": ">=0.17.2",
+    "minecraft": ">=1.21 <1.22",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

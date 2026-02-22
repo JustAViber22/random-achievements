@@ -1,0 +1,1 @@
+{"criteria":{"completed":{"trigger":"randomachievements:complete","conditions":{"achievement_id":"smooth_criminal"}}},"display":{"icon":{"id":"minecraft:suspicious_stew","count":1},"title":"Smooth Criminal","description":"Steal from a villager","frame":"task","show_toast":true,"announce_to_chat":false,"hidden":true},"requirements":[["completed"]]}

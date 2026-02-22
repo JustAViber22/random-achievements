@@ -1,0 +1,1 @@
+{"criteria":{"completed":{"trigger":"randomachievements:complete","conditions":{"achievement_id":"awkward_position"}}},"display":{"icon":{"id":"minecraft:potato","count":1},"title":"Awkwardly Positioned","description":"Have 69 or 420 in your X, Y, or Z coordinates","frame":"task","show_toast":true,"announce_to_chat":false,"hidden":true},"requirements":[["completed"]]}

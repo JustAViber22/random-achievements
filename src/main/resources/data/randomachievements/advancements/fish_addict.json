@@ -1,0 +1,1 @@
+{"criteria":{"completed":{"trigger":"randomachievements:complete","conditions":{"achievement_id":"fish_addict"}}},"display":{"icon":{"id":"minecraft:cod","count":1},"title":"Fish Addict","description":"Catch 15 fish","frame":"task","show_toast":true,"announce_to_chat":false,"hidden":false},"requirements":[["completed"]]}
